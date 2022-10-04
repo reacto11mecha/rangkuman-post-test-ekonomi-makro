@@ -1,0 +1,41 @@
+1. Pengertian dan Manfaat Pendapatan Nasional
+
+Pendapatan nasional adalah hasil perekonomian suatu negara dapat dihitung dari segi produsen,
+pengeluaran, dan pendapatan; jumlah pendapatan faktor-faktor produksi yang digunakan untuk
+memproduksi barang dan jasa dalam kurun waktu satu tahun.
+
+Manfaat menghitung pendapatan nasional adalah dapat mengetahui tingkat kemakmuran dari sebuah negara
+dan dapat menjadi bahan evaluasi perekonomian suatu negara.
+
+2. Komponen pendapatan nasional
+
+Komponen pendapatan nasional diantara lain yaitu,
+
+  1. Produk Domestik Bruto (Gross Domestic Product / GDP)
+  2. Produk Nasional Bruto (Gross National Product / GNP)
+  3. Produk Nasional Netto (Net National Product / NNP)
+  4. Pendapatan Nasional Netto (Net National Income / NNI)
+  5. Pendapatan Perseorangan (Personal Income / PI)
+  6. Pendapatan yang siap dibelanjakan (Disposable Income / DI)
+
+3. Metode menghitung pendapatan nasional
+
+Terdapat tiga pendekatan untuk menghitung pendapatan nasional yaitu berdasarkan
+pendekatan penapatan, pendekatan pengeluaran, dan pendekatan .
+
+4. Konsep dan menfaat pendapatan perkapita
+
+Pendapatan perkapita adalah indikator atau tolak ukur dalam mengukur tingkat kesejahteraan
+masyarakat pada suatu negara.
+
+Pendapatan perkapita didapatkan dari membagi Produk Domestik Bruto (PDB) dengan jumlah penduduk.
+
+Manfaat pendapatan perkapita adalah sebagai dasar pengambilan kebijakan di masa mendatang.
+
+5. Indeks Koefisien Gini
+
+Indeks Gini digunakan untuk mengukur ketimpangan pendapatan suatu daerah secara menyeluruh.
+Koefisien indeks gini berkisar di antara 0 dan 1.
+
+0 => Pemerataan sempurna
+1 => Ketimpangan sempurna
